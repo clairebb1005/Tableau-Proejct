@@ -7,4 +7,4 @@ International:
 ![Dashboard - International](https://drive.google.com/uc?export=view&id=1VVju191Hrr7yd5U0xrkrvRn_ifo3MFw-)
 
 Germany:
-![Dashboard - Germany](https://drive.google.com/uc?export=view&id=19TFACxozV0W5xwJOnaGXBxHJ_L54tlYj)
+![Dashboard - Germany](https://drive.google.com/uc?export=view&id=1chqgspvt0H6S12XIr1N0ZqMxcaTkyC1y)
