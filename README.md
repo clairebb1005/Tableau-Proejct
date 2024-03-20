@@ -1,5 +1,5 @@
 # Tableau-Project
-A repository to practice Tableau with [Covid19 Dataset][https://drive.google.com/drive/folders/1pPiCs-x8QuVEfNehzqDQhmL36LwICPt8].
+A repository to practice Tableau with [Covid19 Dataset](https://drive.google.com/drive/folders/1pPiCs-x8QuVEfNehzqDQhmL36LwICPt8).
 The repository includes a Tableau Workbook featuring several sheets and two Dashboards: one providing an overview of confirmed and recovered COVID-19 cases worldwide, and another specifically visualizing COVID-19 cases in Germany.
 
 ## Dashboards
